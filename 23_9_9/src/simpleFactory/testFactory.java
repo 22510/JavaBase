@@ -2,7 +2,7 @@ package simpleFactory;
 
 import java.util.Scanner;
 
-public class testFactory {
+public class  testFactory {
     public static void main(String[] args) {
 
 
