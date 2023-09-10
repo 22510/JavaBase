@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/23_7_10/23_7_10.iml" filepath="$PROJECT_DIR$/23_7_10/23_7_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23_7_11/23_7_11.iml" filepath="$PROJECT_DIR$/23_7_11/23_7_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23_7_15/23_7_15.iml" filepath="$PROJECT_DIR$/23_7_15/23_7_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23_8_19/23_8_19.iml" filepath="$PROJECT_DIR$/23_8_19/23_8_19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23_9_2/23_9_2.iml" filepath="$PROJECT_DIR$/23_9_2/23_9_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23_9_3/23_9_3.iml" filepath="$PROJECT_DIR$/23_9_3/23_9_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23_9_9/23_9_9.iml" filepath="$PROJECT_DIR$/23_9_9/23_9_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBase.iml" filepath="$PROJECT_DIR$/JavaBase.iml" />
+    </modules>
+  </component>
+</project>
